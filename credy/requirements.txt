@@ -1,0 +1,7 @@
+django-environ
+django
+djangorestframework
+environ
+requests
+djangorestframework_simplejwt
+response
